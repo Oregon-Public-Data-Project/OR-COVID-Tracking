@@ -19,3 +19,11 @@ To help remedy the solution, I'm posting lots of the data I've collected over th
 [State hospital occupancy](https://github.com/Oregon-Public-Data-Project/OR-COVID-Tracking/tree/main/covid_details) This had been part of the html page, but was moved into an undownloadable Tableau worksheet as cases began to spike. I've been unable to receive any meaningful explanation of why. 
 
 [Weekly PDF reports](https://github.com/Oregon-Public-Data-Project/OR-COVID-Tracking/tree/main/weekly_reports) These are the original (pdf) weekly reports. 
+
+## Update speed
+
+🐢🐢🐢
+
+## General Disclaimer
+
+This is a compilation of free data, curated from the web. If you want accurate data, ask OHA. 
