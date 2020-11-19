@@ -18,6 +18,22 @@ To help remedy the solution, I'm posting lots of the data I've collected over th
 
 [Weekly PDF reports](https://github.com/Oregon-Public-Data-Project/OR-COVID-Tracking/tree/main/weekly_reports) These are the original (pdf) weekly reports. 
 
+## Querying the data
+
+The new and cumulative case counts can be queried, and joined to basic demographic data, using this live queryable [datasette](https://covid-5gwuku226a-ue.a.run.app/). (The URL may change in the future). 
+
+Here are some sample queries:
+
+[Cases for a single ZIP.](https://covid-5gwuku226a-ue.a.run.app/COVID_ZIPs/Cases+for+a+single+ZIP+by+week)
+    
+[New case rate per 10,000 residents for Nov. 18 weekly report](https://covid-5gwuku226a-ue.a.run.app/COVID_ZIPs/New+case+rate+per+10%2C000+residents+for+Nov.+18+weekly+report)
+    
+[Cumulative case rate per 10,000 residents for Nov. 18 weekly report](https://covid-5gwuku226a-ue.a.run.app/COVID_ZIPs/Cumulative+case+rate+per+10%2C000+residents+for+Nov.+18+weekly+report)
+
+Using the powerful vega plugin, it's relatively straightforward to visualize simple relationships. For instance, here's a [plot of cases for a given ZIP code](https://covid-5gwuku226a-ue.a.run.app/COVID_ZIPs/Cases+for+a+single+ZIP+by+week#g.mark=bar&g.x_column=date&g.x_type=ordinal&g.y_column=count&g.y_type=quantitative). 
+
+And here's an [X-Y scatter plotting per-10,000 case rate vs median household income](https://covid-5gwuku226a-ue.a.run.app/COVID_ZIPs/Cumulative+case+rate+per+10%2C000+residents+for+Nov.+18+weekly+report#g.mark=circle&g.x_column=medhinc_cy&g.x_type=quantitative&g.y_column=count_per_10k&g.y_type=quantitative). 
+
 ## Update speed
 
 🐢🐢🐢
@@ -25,3 +41,8 @@ To help remedy the solution, I'm posting lots of the data I've collected over th
 ## General Disclaimer
 
 This is a compilation of free data, curated from the web. If you want accurate data, ask OHA. 
+
+
+## Maintenance
+
+This is a project from [@jsfenfen](https://github.com/jsfenfen/).
