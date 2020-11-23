@@ -2,7 +2,7 @@
 
 This is a file documenting the day-by-day count of cumulative and new cases by age, as well as the cumulative count of hospitalizations and deaths by age.
 
-The daily age files, parsed from OHA's daily html updates [here](https://govstatus.egov.com/OR-OHA-COVID-19) are available in the age\_raw\_from\_html files.
+The daily age files, parsed from OHA's daily html updates [here](https://govstatus.egov.com/OR-OHA-COVID-19) are available in the [age\_raw\_from\_html](https://github.com/Oregon-Public-Data-Project/OR-COVID-Tracking/tree/main/age_raw_from_html) directory.
 
 This is a working analysis file so there's possibly more columns than anyone would want or need. I added some aggregate age groups (e.g. 30-59 though I can't really remember why--this was written in April or May I think). 
 
