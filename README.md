@@ -1,10 +1,11 @@
 # Oregon COVID Data
 
-Oregon collects some of the best COVID-19 data in the country. Unfortunately, they've chosen not to release the data in a data format. 
+Oregon collects some of the best COVID-19 data in the country. Not all of it is accessible in a traditional data format. 
 
-ZIP-code level case data is trapped in weekly pdf reports. Hospital capacity data is posted in a Tableau workbook with the option to download disabled. 
+We're thrilled that OHA posts regionwide hospital capacity data in a Tableau workbook with the option to download enabled. 
 
-To help remedy the solution, I'm posting lots of the data I've collected over the last 6 months, mainly by scraping their html page and pdfs. At some point I'll add documentation, but let me stress this is a volunteer effort. 
+ZIP-code level case data is (to our knowledge) only available in weekly pdf reports. There's a reasonable archive of them here in the [weekly reports](https://github.com/Oregon-Public-Data-Project/OR-COVID-Tracking/tree/main/weekly_reports) directory. 
+
 
 ## What is posted? 
 
