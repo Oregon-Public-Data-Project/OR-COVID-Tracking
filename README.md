@@ -27,9 +27,9 @@ Here are some sample queries:
 
 [Cases for a single ZIP.](https://covid-5gwuku226a-ue.a.run.app/COVID_ZIPs/Cases+for+a+single+ZIP+by+week)
     
-[New case rate per 10,000 residents for Nov. 18 weekly report](https://covid-5gwuku226a-ue.a.run.app/COVID_ZIPs/New+case+rate+per+10%2C000+residents+for+Nov.+18+weekly+report)
+[New case rate per 10,000 residents for Nov. 25 weekly report](https://covid-5gwuku226a-ue.a.run.app/COVID_ZIPs/New+case+rate+per+10%2C000+residents+for+Nov.+25+weekly+report)
     
-[Cumulative case rate per 10,000 residents for Nov. 18 weekly report](https://covid-5gwuku226a-ue.a.run.app/COVID_ZIPs/Cumulative+case+rate+per+10%2C000+residents+for+Nov.+18+weekly+report)
+[Cumulative case rate per 10,000 residents for Nov. 25 weekly report](https://covid-5gwuku226a-ue.a.run.app/COVID_ZIPs/Cumulative+case+rate+per+10%2C000+residents+for+Nov.+25+weekly+report)
 
 Using the powerful vega plugin, it's relatively straightforward to visualize simple relationships. For instance, here's a [plot of cases for a given ZIP code](https://covid-5gwuku226a-ue.a.run.app/COVID_ZIPs/Cases+for+a+single+ZIP+by+week#g.mark=bar&g.x_column=date&g.x_type=ordinal&g.y_column=count&g.y_type=quantitative). 
 

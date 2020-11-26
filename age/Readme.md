@@ -26,6 +26,8 @@ There's an extensive literature documenting the values you might need; because O
 
 ![MacDown logo](params_approx.png)
 
+The parameters in plainer english they use are [here](https://github.com/InstituteforDiseaseModeling/covasim/blob/master/covasim/parameters.py#L62).
+
 I haven't compared any of the observed OR values to estimates though it might be interesting to do so.
 
 
