@@ -29,7 +29,7 @@ This data is being released on a weekly basis from 7/31 through 11/27. There are
 
 ### A simplified subset of COVID variables
 
-There are many useful variables. But for a quick summary sometimes its easier to just use a subset. This is a renaming convention I've been using for an abbreviated view. 
+There are many useful variables. But for a quick summary sometimes its easier to just use a subset. This is a renaming convention I've been using for an abbreviated view. The below uses the format original\_variable\_name ==> shortened variable name.
 
 
   all\_adult\_hospital\_inpatient\_beds\_7\_day\_avg ==> adult\_inpatient\_beds
@@ -45,6 +45,7 @@ There are many useful variables. But for a quick summary sometimes its easier to
   total\_staffed\_adult\_icu\_beds\_7\_day\_avg ==>  staffed\_icu\_beds
   
   staffed\_adult\_icu\_bed\_occupancy\_7\_day\_avg ==>  icu\_occupancy
+  
   staffed\_icu\_adult\_patients\_confirmed\_and\_suspected\_covid\_7\_day\_avg ==>  all\_covid\_icu
   
   staffed\_icu\_adult\_patients\_confirmed\_covid\_7\_day\_avg ==>  confirmed\_covid\_icu
